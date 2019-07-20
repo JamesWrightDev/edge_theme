@@ -8,5 +8,11 @@ fields:
     required: false
   label: Title
   description: TestPost123
+- name: path
+  type: text
+  config:
+    required: false
+  label: Path
+  description: Blog Url Path
 pages:
 - src/markdown-pages/hello123.md
