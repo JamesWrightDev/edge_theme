@@ -1,17 +1,18 @@
 ---
 label: Blog Post
-hide_body: true
+hide_body: false
 fields:
 - name: path
   type: text
   config:
-    required: false
+    required: true
   label: Path
   description: Blog Url Path
+  hidden: false
 - name: title
   type: text
   config:
-    required: false
+    required: true
   label: Title
   description: TestPost123
 pages:
