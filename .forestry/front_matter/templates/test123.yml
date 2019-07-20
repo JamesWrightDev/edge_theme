@@ -8,3 +8,5 @@ fields:
     required: false
   label: Title
   description: TestPost123
+pages:
+- markdown-pages/hello123.md
