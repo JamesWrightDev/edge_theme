@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: markdown-pages
+  path: src/markdown-pages
   label: Posts
   create: documents
   match: "**/*"
