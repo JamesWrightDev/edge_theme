@@ -16,4 +16,5 @@ fields:
   label: Title
   description: TestPost123
 pages:
+- src/markdown-pages/test4.md
 - src/markdown-pages/hello123.md
